@@ -37,7 +37,7 @@ success() { echo ; paint 'green' "SPACESHIP: $*" ; echo }
 # Paths to important resources
 # ------------------------------------------------------------------------------
 
-URL='https://raw.githubusercontent.com/denysdovhan/spaceship-zsh-theme/master/spaceship.zsh'
+URL='https://raw.githubusercontent.com/binaryoverload/spaceship-zsh-theme/master/spaceship.zsh'
 SPACESHIP="$PWD/spaceship.zsh"
 DIST="$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 
